@@ -2,6 +2,21 @@
 
 ## Задание - REST API (3 балла)
 
+### ДЗ 3
+
+```bash
+docker compose -f lecture_2/hw/docker-compose.yml up -d
+```
+
+Чтоб посмотреть графики  
+
+```bash
+python lecture_2/hw/example.py
+```
+
+Скрин дашборда
+![alt text](image.png "Title")
+
 Реализовать REST + RPC API для выдуманного интернет магазина.
 
 Ресурсы:
